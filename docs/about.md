@@ -3,23 +3,13 @@ id: about
 title: About
 ---
 
-You can start your "About" page with an elevator pitch, one or two
-sentences about you! The rest of this page page can
-include a little bit about yourself. Some things you
-might include:
+I am an Undergraduate Student majoring in Computer Science and minoring in Mathematics at Loyola University Chicago. I am passionate about increasing inclusivity and diversity in technology, and have been involved in Girls Who Code since 2018 to do so. My interests are in Software Development, Data Science and Engineering, and Cybersecurity. 
 
-1. Your current position
-1. Organizations you're involved with
-1. Your personal and professional values
-1. Hobbies or fun facts
+## Current Roles
 
-Write it in first (I) or third (Your Name Here) person.
-
-> Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
-
-## Current Role
-
-Grace Hopper Celebration Attendee
+STEAMH Fellow at Girls Who Code
+IT Intern at PAWS Chicago
+Undergraduate Research Assistant at Loyola University Chicago
 
 ## Recognition
 
@@ -27,6 +17,6 @@ Grace Hopper Celebration Attendee
 
 ## Social Media
 
-- Twitter
-- LinkedIn
-- GitHub
+Twitter: @anne_wagner_
+LinkedIn: amwagner19
+GitHub: amwagner19
