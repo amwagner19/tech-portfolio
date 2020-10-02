@@ -7,16 +7,13 @@ I am an Undergraduate Student majoring in Computer Science and minoring in Mathe
 
 ## Current Roles
 
-STEAMH Fellow at Girls Who Code
-IT Intern at PAWS Chicago
-Undergraduate Research Assistant at Loyola University Chicago
+- STEAMH Fellow at Girls Who Code
+- IT Intern at PAWS Chicago
+- Undergraduate Research Assistant at Loyola University Chicago
 
-## Recognition
-
-- 2020 Awesome Woman in Technology Award
 
 ## Social Media
 
-Twitter: @anne_wagner_
-LinkedIn: amwagner19
-GitHub: amwagner19
+- Twitter: @anne_wagner_
+- LinkedIn: amwagner19
+- GitHub: amwagner19
